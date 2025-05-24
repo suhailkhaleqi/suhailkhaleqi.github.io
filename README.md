@@ -6,6 +6,9 @@ Heck Rush, HTML5 Canvas ve JavaScript kullanılarak geliştirilmiş bir 2D platf
 **🎮 Oyun Hakkında**:<br>
 Heck Rush'ta oyuncu, sürekli hareket halindeki bir dünyada lav engellerinden kaçan küçük bir karakteri kontrol eder. Oyun zamanla hızlanır ve zorluk artar. Amacınız mümkün olduğunca yüksek skor elde etmektir.<br>
 
+**🎮 Oyunu buradan başlatabilirsiniz**:<br>
+https://suhailkhaleqi.github.io/<br>
+
 **✨ Özellikler:<br>**
 **Sade ve Etkili Grafik**: Pixel sanatı tarzında minimalist tasarım<br>
 **Dinamik Parçacık Efektleri:** Lav engellerinden çıkan gerçekçi parçacık efektleri<br>
