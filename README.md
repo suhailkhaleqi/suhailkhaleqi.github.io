@@ -20,7 +20,7 @@ Heck Rush'ta oyuncu, sürekli hareket halindeki bir dünyada lav engellerinden k
 
 <br><br>
 🎥 Oynanış Videosu<br>
-[YouTube Videosunu İzle](https://www.youtube.com/watch?v=xxxxx)
+[YouTube Videosunu İzle]<br>[(https://www.youtube.com/watch?v=xxxxx)](https://youtu.be/V6RCO3Gf-hk?si=FLw9GocnxxBRMZ2D)
 <br><br>
 
 **kaynakça:**<br>
