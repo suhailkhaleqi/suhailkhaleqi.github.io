@@ -31,4 +31,4 @@ https://suhailkhaleqi.github.io/<br><br>
 **kaynakça:**<br>
 W3school.com<br>
 claude.ai<br>
-chatgpt<br>
+
