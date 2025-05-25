@@ -17,7 +17,9 @@ Heck Rush'ta oyuncu, sürekli hareket halindeki bir dünyada lav engellerinden k
 **Skor Sistemi**: Gerçek zamanlı skor takibi<br><br>
 **🎮 Oyunu buradan başlatabilirsiniz**:<br>
 https://suhailkhaleqi.github.io/<br><br>
-
+**🎮 Oyunun ismi ve linki **:<br>
+HECH RUSH<br>
+https://dorcat.itch.io/heck-rush<br>
 📷 Oyun Görselleri<br><br>
 ![resize-1748029451845082632Screenshot86](https://github.com/user-attachments/assets/02f50d6b-900b-4d9d-8ce8-b9dd92e3d835)<br>
 ![resize-1748029330139031059Screenshot85](https://github.com/user-attachments/assets/3ce6a808-c0ac-4d32-8f9d-7285ceabedc5)<br>
