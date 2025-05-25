@@ -26,7 +26,7 @@ https://dorcat.itch.io/heck-rush<br>
 ![resize-1748029451845082632Screenshot86](https://github.com/user-attachments/assets/cdc96108-3d84-4b01-9f2d-f0bbc4f1dbd4)<br>
 
 <br><br>
-🎥 Oynanış Videosu<br>
+🎥 Oynanış Videosu
 [YouTube Videosunu İzle]<br>[(https://www.youtube.com/)](https://youtu.be/V6RCO3Gf-hk?si=FLw9GocnxxBRMZ2D)
 <br><br>
 
