@@ -27,7 +27,7 @@ https://dorcat.itch.io/heck-rush<br>
 
 <br><br>
 🎥 Oynanış Videosu<br>
-[YouTube Videosunu İzle]<br>[(https://www.youtube.com/watch?v=xxxxx)](https://youtu.be/V6RCO3Gf-hk?si=FLw9GocnxxBRMZ2D)
+[YouTube Videosunu İzle]<br>[(https://www.youtube.com/)](https://youtu.be/V6RCO3Gf-hk?si=FLw9GocnxxBRMZ2D)
 <br><br>
 
 **kaynakça:**<br>
